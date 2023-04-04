@@ -5,4 +5,6 @@
 
 ### Code and dataset are coming soon.
 
-https://github.com/taodeng/DrFixD-night/blob/main/result_demo.avi
+
+https://user-images.githubusercontent.com/28968155/229768399-8fbe8507-4106-4a60-92f6-185f57e0d0ea.mp4
+
