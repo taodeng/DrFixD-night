@@ -1,6 +1,6 @@
 # DrFixD-night
 
-## Paper: Driving Visual Saliency Prediction of Dynamic Night Scenes via a Spatio-Temporal Dual-Encoder Network
+## Paper: Driving Visual Saliency Prediction of Dynamic Night Scenes via a Spatio-Temporal Dual-Encoder Network, IEEE Transactions on Intelligent Transportation Systems, 2023. ![Paper](https://doi.org/10.1109/TITS.2023.3323468)
 ### Authors: Tao Deng, Lianfang Jiang, Yi Shi, Jiang Wu, Zhangbi Wu, Shun Yan, Xiangshi Zhang, and Hongmei Yan
 
 ### Code and dataset are coming soon.
